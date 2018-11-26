@@ -1,4 +1,4 @@
-# FoodieWebService[boot]
+# Nearby Restaurants Web Service[boot]
 A REST API that takes an address as input and returns a JSON formatted list of nearby restaurants
 
 <h1>How to use our service:</h1>
